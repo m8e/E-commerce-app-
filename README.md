@@ -1,5 +1,7 @@
 # e_commerce_app
 
+https://youtu.be/a3EgrBsyZUg
+
 A new Flutter application.
 
 ## Getting Started
